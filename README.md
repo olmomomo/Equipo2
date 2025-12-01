@@ -10,9 +10,14 @@ Permite llevar un **control de inventario** preciso, registrar todas las operaci
 
 El sistema está diseñado para ser una herramienta **práctica, rápida y sencilla** para la administración de procesos internos en **negocios pequeños y medianos**.
 
-### Módulos Esenciales Incluidos
+### Componentes Especiales y Módulos Esenciales
 
-El sistema se estructura en torno a los siguientes módulos principales:
+El sistema incorpora dos componentes clave para la funcionalidad y la interfaz:
+
+* **Slide Menu:** Utilizado para mejorar la **navegación y la experiencia del usuario (UX)**.
+* **Captcha Cadenas:** Implementado en el inicio de sesión o recuperación de contraseña para una **validación de seguridad** mejorada.
+
+Además de los componentes anteriores, los módulos principales son:
 
 * **Inicio de Sesión (Login)**
 * **Gestión de Productos** (Inventario)
@@ -53,7 +58,9 @@ El sistema se estructura en torno a los siguientes módulos principales:
 | **Conexión DB** | **JDBC** | Driver estándar para conexión. |
 | **Interfaz Gráfica** | **Swing** (o JavaFX, según el proyecto) | |
 | **Arquitectura** | Formularios y Controladores (MVC básico) | Separación de lógica de negocio y presentación. |
-
+| **Librerías Adicionales** | **JCommon** & **JFreeChart** | Utilizadas para la **generación de gráficos y reportes** visuales. |
+| **Librerías de Conexión** | **MySQL Connector** | Implementación del controlador de MySQL. |
+| **Librerías de Activación** | `activation-1.1`, `jakarta.activation` | Librerías para manejar la activación de Java Beans y extensiones. |
 ---
 
 ## Pruebas y Validaciones
