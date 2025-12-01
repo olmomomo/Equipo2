@@ -114,7 +114,8 @@ Sigue estos pasos para poner en marcha el sistema:
     * Haz clic en `Run` → `Run Project` (o presiona **F6**).
 
 ---
-
+## Capturas del sistema
+**Login:**
 ![Login](capturasAbaLaGloria/login.png)
 
 
