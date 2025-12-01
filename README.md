@@ -118,6 +118,11 @@ Sigue estos pasos para poner en marcha el sistema:
 **Login:**
 ![Login](capturasAbaLaGloria/login.png)
 
+**Pantalla de inicio:**
+![Pantalla de inicio](capturasAbaLaGloria/PantallaInicio.jpg)
+
+**Producto**
+![Pantalla de Producto](capturasAbaLaGloria/PantallaInicio.jpg)
 
 ## Autores / Créditos
 
