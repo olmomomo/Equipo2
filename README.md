@@ -115,6 +115,9 @@ Sigue estos pasos para poner en marcha el sistema:
 
 ---
 
+![Login](capturasAbaLaGloria/login.png)
+
+
 ## Autores / Créditos
 
 Proyecto desarrollado como parte de la materia correspondiente.
