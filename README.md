@@ -122,7 +122,22 @@ Sigue estos pasos para poner en marcha el sistema:
 ![Pantalla de inicio](capturasAbaLaGloria/PantallaInicio.jpg)
 
 **Producto**
-![Pantalla de Producto](capturasAbaLaGloria/PantallaInicio.jpg)
+![Pantalla de Producto](capturasAbaLaGloria/Productos.jpg)
+
+**Compras:**
+![Pantalla de Compra](capturasAbaLaGloria/compra.jpg)
+
+**Proveedor:**
+![Pantalla de proveedor](capturasAbaLaGloria/proveedor.jpg)
+
+**Ventas:**
+![Pantalla de ventas](capturasAbaLaGloria/ventas.jpg)
+
+**Perfil:**
+![Pantalla del perfil](capturasAbaLaGloria/perfil.jpg)
+
+**Usuario:**
+![Pantalla de usuario](capturasAbaLaGloria/usuario.jpg)
 
 ## Autores / Créditos
 
